@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "date": "2025-08-26",
+    "time": "18:30",
+    "hall": 1,
+    "lang": "UA",
+    "format": "IMAX"
+  },
+  {
+    "id": 2,
+    "movieId": 1,
+    "date": "2025-08-27",
+    "time": "21:00",
+    "hall": 2,
+    "lang": "UA",
+    "format": "2D"
+  },
+  {
+    "id": 3,
+    "movieId": 2,
+    "date": "2025-08-26",
+    "time": "19:00",
+    "hall": 3,
+    "lang": "UA",
+    "format": "70mm"
+  },
+  {
+    "id": 4,
+    "movieId": 3,
+    "date": "2025-08-26",
+    "time": "16:00",
+    "hall": 2,
+    "lang": "UA",
+    "format": "3D"
+  }
+]

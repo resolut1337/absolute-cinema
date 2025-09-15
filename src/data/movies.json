@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "genre": "Sci-Fi",
+    "rating": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=_YUzQa_1RCE",
+    "description": "Пол Атрейдес об’єднується з фрименами, щоб помститися за родину та запобігти апокаліптичному майбутньому.",
+    "cast": [
+      "Timothée Chalamet",
+      "Zendaya",
+      "Rebecca Ferguson"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": "Drama",
+    "rating": 8.4,
+    "poster": "https://image.tmdb.org/t/p/w500/bLSYFQKN7AAGzQJUO2cRPn1ytYq.jpg",
+    "trailer": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+    "description": "Біографічна драма про Роберта Оппенгеймера та створення атомної бомби.",
+    "cast": [
+      "Cillian Murphy",
+      "Emily Blunt",
+      "Matt Damon"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Inside Out 2",
+    "year": 2024,
+    "genre": "Animation",
+    "rating": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w500/ntV6w1G6hn6i1AYAiQwaBzwkcDe.jpg",
+    "trailer": "https://www.youtube.com/watch?v=LEjhY15eCx0",
+    "description": "Райлі стає підлітком, і в її голові з’являються нові емоції, які змінюють усе.",
+    "cast": [
+      "Amy Poehler",
+      "Maya Hawke",
+      "Kensington Tallman"
+    ]
+  }
+]
